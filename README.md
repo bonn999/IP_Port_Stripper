@@ -9,3 +9,11 @@ I made this port stripper because of my View Bot needing to use Raw ips without 
   *Why, Just Y?
     Well because, Too much work to link my view bot to a gui and use chromium and use actual proxies rn. Soo here is a solution for the confusion.
     
+  *Example On How To Use This?
+    This is My Video Showing you how to use this if you are stuck somewhere.
+       
+       Youtube Link == https://youtu.be/W8sXGv0tPsk
+  
+  *For My other videos and processes check out my youtube for content!
+  
+       Youtube Channel == https://www.youtube.com/channel/UCK5hC9ahEfDCp4YPSr4b9hw
