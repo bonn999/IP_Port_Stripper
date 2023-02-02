@@ -1,0 +1,2 @@
+C:\Users\wedie\source\repos\IPz1\x64\Debug\IPz1.exe.lastcodeanalysissucceeded
+C:\Users\wedie\source\repos\IPz1\IPz1\x64\Debug\NativeCodeAnalysis.read.1.tlog
